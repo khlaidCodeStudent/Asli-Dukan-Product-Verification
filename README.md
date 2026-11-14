@@ -4,9 +4,6 @@ Asli Dukan is an AI-powered web application that helps users identify whether a 
 
 ![Asli Dukan Banner](https://img.shields.io/badge/AI-Powered-blue) ![Status](https://img.shields.io/badge/Status-Live-green)
 
-### 🚀 Live Demo
-[Your Vercel Link Here]
-
 ### ✨ Features
 
 - **Dual Image Upload:** Upload front and back side images of any product for accurate verification.
@@ -51,10 +48,13 @@ Asli Dukan is an AI-powered web application that helps users identify whether a 
 To keep your secrets safe, this project uses .env. Never push it to GitHub.
 Create .env.example for reference:
 VITE_GEMINI_API_KEY=PASTE_YOUR_KEY_HERE
+
 🤝 Contributing
 Contributions are welcome! Feel free to open an issue or submit a pull request.
+
 📄 License
 This project is licensed under the MIT License.
+
 👨‍💻 Author
 Khalid | Code Student
 GitHub: @khlaidCodeStudent
